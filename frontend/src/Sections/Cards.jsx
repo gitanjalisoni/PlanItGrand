@@ -6,7 +6,7 @@ function Cards({ item }) {
   <figure><img src={item.image} style={{ width: '100%', height: '300px', objectFit: 'cover' }} /></figure>
   <div className="card-body">
     <h2 className="card-title">{item.name}
-    <div className="badge text-orange-500">Free</div>
+    <div className="badge text-orange-500">{item.price}</div>
     </h2>
     <p>{item.title}</p>
     <div className="card-actions justify-end">
