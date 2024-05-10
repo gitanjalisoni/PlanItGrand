@@ -18,7 +18,7 @@ function Tagline() {
     
   </div>
   <div className=" order-1 w-full md:w-1/2">
-    <img src={tagline} className="w-90 h-70 rounded-md mt-12 p-10 " alt="" />
+    <img src={tagline} className="w-90 h-70 rounded-md mt-12 p-10 shadow- "/>
   </div>
   </div>
   </>
