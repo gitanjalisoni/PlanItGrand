@@ -7,7 +7,7 @@ function Event() {
   return (
     <>
     <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
-      <div className="mt-20 md:mt-16 items-center justify-center text-center">
+      <div className="mt-24 md:mt-16 items-center justify-center text-center">
         <h1 className=" text-2xl md:text-4xl"><span className='text-orange-500'>Plan It Grand:</span> Find Your Event Spark Here!</h1>
         <p className="mt-12 ">Planning an unforgettable event is easier than ever! Here you'll find a wide range of events, from grand festivals and corporate gatherings to intimate celebrations. Our expert event managers are here to help you navigate the planning process and create a truly special occasion.</p>
         <Link to= "/">
