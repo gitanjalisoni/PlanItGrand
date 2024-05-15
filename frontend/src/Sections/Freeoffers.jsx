@@ -45,7 +45,7 @@ function Freeoffers() {
       };
   return (
     <>
-    <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
+    <div className="max-w-screen-2xl md:min-w-screen container mx-auto md:px-20 px-4">
         <div>
         <h1 className="dont-semibold text-xl pb-5 text-orange-500">Free expert advices</h1>
         <p>Stuck on your event planning? Get instant advice from experienced event managers! Join our FREE chat and ask all your questions. Our experts are here to help you plan a flawless event.</p>
