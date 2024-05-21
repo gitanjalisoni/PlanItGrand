@@ -8,7 +8,7 @@ function Event() {
   useEffect(()=>{
     const getEvent=async()=>{
       try {
-        const res = await axios.get("http://localhost:4001/event");
+        const res = await axios.get("https://backend-ten-mauve.vercel.app/");
         console.log(res.data)
         setEvent(res.data)
       } catch (error) {
