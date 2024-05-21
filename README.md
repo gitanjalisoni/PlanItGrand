@@ -33,7 +33,3 @@ No installation steps required for the frontend. Simply clone the repository and
 ## Usage
 
 To use the frontend of Plan It Grand, open the project in a web browser. Navigate through the different pages using the navigation bar and interact with the available features.
-
-## Contributing
-
-As this project is a personal project by me, contributions are not currently being accepted. However, feel free to explore the codebase and use it as a learning resource.
